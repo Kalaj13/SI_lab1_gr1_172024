@@ -62,3 +62,13 @@ class Student {
 		//TODO
 	}
 }
+
+class Course
+{
+	List<Student> listaStudenti=new List<Student>;
+
+	public double getPoints(){}
+
+	public Student deleteStudent(){}
+
+}
